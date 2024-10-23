@@ -57,4 +57,5 @@ button
 {
     width: 400px;
     height: 800px;
+    display: inline-block;
 }
