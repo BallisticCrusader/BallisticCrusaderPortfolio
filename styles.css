@@ -19,6 +19,11 @@ body
    background-color: #141516; 
 }
 
+head
+{
+    background-color: #0f1624;
+}
+
 nav
 {
     display: flex;
