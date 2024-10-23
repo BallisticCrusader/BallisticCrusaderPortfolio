@@ -29,8 +29,7 @@ header
 nav
 {
     position: absolute;
-    top: 50%;
-    left: 50%;
+    left: 30%;
     background-color: #101827;
     padding: 10px 0;
 }
