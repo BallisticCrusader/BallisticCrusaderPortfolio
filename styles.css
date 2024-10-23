@@ -50,7 +50,11 @@ button
 
 .centerButton
 {
+    left: 50%;
+}
+
+.projects
+{
     width: 400px;
     height: 800px;
-    left: 50%;
 }
