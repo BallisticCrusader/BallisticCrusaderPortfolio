@@ -37,8 +37,9 @@ nav
 
 button
 {
-    background-color: #101827;
+    background-color: #18243a;
     border: none;
+    border-radius: 12px;
     color: #ffffff;
     padding: 15px 32px;
     text-align: center;
