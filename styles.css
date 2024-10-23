@@ -64,11 +64,13 @@ button
 
 .info
 {
-   display: inline-block;
+    display: inline-block;
 }
 
 .logo2
 {
     width: 200px;
     height: 200px;
+    display: inline-block;
+   
 }
