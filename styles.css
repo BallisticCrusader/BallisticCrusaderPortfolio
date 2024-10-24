@@ -55,6 +55,28 @@ button
 
 .projects
 {
+    display: inline-block;
+    text-align: center;
+}
+
+.Skypunk
+{
+    width: 400px;
+    height: 800px;
+    display: inline-block;
+    text-align: center;
+}
+
+.SkypunkArena
+{
+    width: 400px;
+    height: 800px;
+    display: inline-block;
+    text-align: center;
+}
+
+.BeastTag
+{
     width: 400px;
     height: 800px;
     display: inline-block;
