@@ -97,6 +97,14 @@ button
 {
     width: 200px;
     height: 200px;
-    display: inline-block;
-   
+    display: inline-block;  
+}
+
+.projects
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-inline: auto;
+    align-items: left 50%;
 }
