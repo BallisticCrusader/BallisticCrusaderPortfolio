@@ -19,6 +19,11 @@ body
    background-color: #141516; 
 }
 
+a
+{
+    color: aliceblue;
+    text-decoration: none;
+}
 header
 {
     background: #162135;
