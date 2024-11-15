@@ -58,30 +58,20 @@ button
     text-align: center;
 }
 
-.Skypunk
+.Skypunk, .SkypunkArena, .BeastTag 
 {
     width: 375px;
-    height: 350px;
     display: inline-block;
     text-align: center;
     padding-right: 20px;
+    margin-bottom: 20px;
 }
 
-.SkypunkArena
+.Skypunk img, .SkypunkArena img, .BeastTag img 
 {
-    width: 375px;
-    height: 350px;
-    display: inline-block;
-    text-align: center;
-    padding-right: 20px;
-}
-
-.BeastTag
-{
-    width: 375px;
-    height: 350px;
-    display: inline-block;
-    text-align: center;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
 }
 
 .info
@@ -108,7 +98,8 @@ button
 .projects
 {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
-    flex-direction: row;
+    gap: 20px;
     margin-top: 20px;
 }
