@@ -5,13 +5,7 @@ h1
 }
 p
 {
-    text-align: center;
     color: #ffffff;
-}
-
-div
-{
-    text-align: center;
 }
 
 body
@@ -55,7 +49,7 @@ button
 
 .centerButton
 {
-    left: 50%;
+    text-align: center;
 }
 
 .projects
@@ -92,7 +86,16 @@ button
 
 .info
 {
-    display: inline-block;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 20px;
+    text-align: left;
+}
+
+.bio
+{
+    margin: 20px;
 }
 
 .logo2
