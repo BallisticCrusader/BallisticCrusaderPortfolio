@@ -111,6 +111,14 @@ button
     bottom: 0;
 }
 
+footer
+{
+    background-color: #171717;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+}
+
 .bio
 {
     margin: 20px;
