@@ -66,7 +66,7 @@ button
     text-align: center;
 }
 
-.Skypunk, .SkypunkArena, .BeastTag 
+.Skypunk, .SkypunkArena, .BeastTag, .PrimalFearWeb 
 {
     width: 375px;
     display: inline-block;
@@ -75,7 +75,7 @@ button
     margin-bottom: 20px;
 }
 
-.Skypunk img, .SkypunkArena img, .BeastTag img 
+.Skypunk img, .SkypunkArena img, .BeastTag img, .PrimalFearWeb img  
 {
     max-width: 100%;
     height: auto;
