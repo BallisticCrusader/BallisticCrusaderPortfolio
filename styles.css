@@ -66,6 +66,17 @@ button
     text-align: center;
 }
 
+.WebsiteProj
+{
+    display: inline-block;
+    text-align: center;
+}
+
+.Websites
+{
+    text-align: center;
+}
+
 .Skypunk, .SkypunkArena, .BeastTag, .PrimalFearWeb 
 {
     width: 375px;
